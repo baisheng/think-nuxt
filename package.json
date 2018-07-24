@@ -14,7 +14,7 @@
     "thinkjs",
     "nuxtjs"
   ],
-  "author": "baisheng",
+  "author": "baisheng <baisheng@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/baisheng/thinkjs-nuxt/issues"
