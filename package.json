@@ -1,0 +1,30 @@
+{
+  "name": "think-nuxt",
+  "version": "1.0.0",
+  "description": "Nuxtjs for ThinkJS 3",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --fix index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baisheng/think-nuxt.git"
+  },
+  "keywords": [
+    "thinkjs",
+    "nuxtjs"
+  ],
+  "author": "baisheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baisheng/thinkjs-nuxt/issues"
+  },
+  "homepage": "https://github.com/baisheng/thinkjs-nuxt#readme",
+  "dependencies": {
+    "nuxt": "^1.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.2.0",
+    "eslint-config-think": "^1.0.2"
+  }
+}
