@@ -1,6 +1,6 @@
 {
   "name": "think-nuxt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Nuxtjs for ThinkJS 3",
   "main": "index.js",
   "scripts": {
@@ -21,10 +21,14 @@
   },
   "homepage": "https://github.com/baisheng/thinkjs-nuxt#readme",
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.1.0"
+  },
+  "engines": {
+    "node": ">=8.0.0",
+    "npm": ">=5.0.0"
   },
   "devDependencies": {
-    "eslint": "^5.4.0",
+    "eslint": "^5.6.1",
     "eslint-config-think": "^1.0.2"
   }
 }
